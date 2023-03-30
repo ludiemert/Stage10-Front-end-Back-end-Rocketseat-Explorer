@@ -1,14 +1,12 @@
 # Stage10-Front-end-Back-end-Rocketseat-Explorer
 Frontend and Backend -  integration - Rocketseat-Explorer-Bootcamp
 
-
-<h1 align="center">
-    <a href="#"> RocketMovies - API Restful</a>
-</h1>
+Stage 10 - API Restful => API => (Application Programming Interface) => 
+Interface that provides a set of functionalities to be used/consumed.
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="rocketmovies" title="#rocketmovies" MovieRocket_FrontEnd="/Movie.png" width="100%">
+  <img alt="rocketmovies" title="#rocketmovies" src="./page.png.png" width="100%">
 
 </p>
 
@@ -58,7 +56,16 @@ Frontend and Backend -  integration - Rocketseat-Explorer-Bootcamp
 - [ ] Hooks; 🚀
 - [ ] LocalStorage; 🚀
 
+
+
+## Project Lay-out: Figma
+
+[Lay-out: Figma - Docs](https://www.figma.com/file/xjeQU6sY9zeTLUzbMUAOJG/RocketMovies-(Copy)?node-id=304%3A53&t=pzGAyFVlDjn7h4Ci-0)
+
+
 ----------------------
+
+
 
 ### Contact
 

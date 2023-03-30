@@ -1,7 +1,5 @@
 # RocketNotes 📋
 
-<div align="center">
-
 ### Preview from the project 🤩
 
 This project is separated into two parts, which were made separately, with the Backend (API) and the Frontend made in React.js using the initial setup of vitejs. Below you will find step by step how to run the application, containing the technologies used.
